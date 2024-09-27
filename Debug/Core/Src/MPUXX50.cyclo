@@ -1,0 +1,7 @@
+../Core/Src/MPUXX50.c:40:9:MPU_begin	3
+../Core/Src/MPUXX50.c:76:6:MPU_writeAccFullScaleRange	5
+../Core/Src/MPUXX50.c:115:6:MPU_writeGyroFullScaleRange	5
+../Core/Src/MPUXX50.c:153:6:MPU_readRawData	1
+../Core/Src/MPUXX50.c:174:6:MPU_calibrateGyro	3
+../Core/Src/MPUXX50.c:205:6:MPU_readProcessedData	1
+../Core/Src/MPUXX50.c:228:6:MPU_calcAttitude	1

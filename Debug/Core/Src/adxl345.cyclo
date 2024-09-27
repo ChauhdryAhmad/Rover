@@ -1,0 +1,2 @@
+../Core/Src/adxl345.c:7:6:ADXL345_Init	3
+../Core/Src/adxl345.c:29:19:ADXL345_ReadAxis	1

@@ -1,0 +1,2 @@
+../Core/Src/MAGNETO.c:5:6:MAGNETO_Init	1
+../Core/Src/MAGNETO.c:22:19:MAGNETO_ReadAxis	1
